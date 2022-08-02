@@ -451,7 +451,7 @@ footer section Design
 
     /* navbar brand */
     .navigation-wrap .navbar-brand img{
-        height:3.8125rem;
+        width: 6rem;
     }
     .navigation-wrap{
         text-align: center;
@@ -515,6 +515,10 @@ footer section Design
     .footer .footer-link,
     .footer a i{
         padding:0 0.7rem;
+    }
+
+    .footer .play-image {
+      width: 12rem;
     }
      
 }
