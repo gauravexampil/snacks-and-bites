@@ -207,7 +207,11 @@ p {
   padding:0.3125rem 1.4375rem;
   box-shadow: none;
   margin-left:0.625rem;
-} 
+}
+
+.logo-img {
+  width: 7rem;
+}
 
 /* Change navbar styling on scroll */
 
@@ -424,6 +428,10 @@ footer section Design
   font-size: 1.5rem;
   color:var(--white-color);
   padding:0 1rem;
+}
+
+.footer .play-image {
+  width: 15rem;
 }
 
 
