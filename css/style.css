@@ -501,8 +501,7 @@ footer section Design
 }
 
 @media (max-width: 767px) {
-
-    /* custom css */
+  
     h1{
         font-size:2.8rem;
     }
