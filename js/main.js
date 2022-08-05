@@ -18,7 +18,7 @@ navBar.forEach(function(a){
     })
 })
  
-// counter design
+//counter design
  document.addEventListener("DOMContentLoaded", () => {
     function counter(id, start, end, duration){
         let obj = document.getElementById(id),
