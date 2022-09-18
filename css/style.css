@@ -340,6 +340,7 @@ explore menu section
   border-radius: 0.9375rem;
 }
 .explore-food .card img{
+      padding-top: 50px;
   border-radius: 0.9375rem;
   object-fit: cover;
   height: 15rem;
